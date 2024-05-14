@@ -1,0 +1,64 @@
+G:\C#\Project3(Simple Clinic)\bin\Debug\Project3(Simple Clinic).exe.config
+G:\C#\Project3(Simple Clinic)\bin\Debug\Project3(Simple Clinic).exe
+G:\C#\Project3(Simple Clinic)\bin\Debug\Project3(Simple Clinic).pdb
+G:\C#\Project3(Simple Clinic)\bin\Debug\Guna.UI.dll
+G:\C#\Project3(Simple Clinic)\obj\Debug\Project3(Simple Clinic).csproj.AssemblyReference.cache
+G:\C#\Project3(Simple Clinic)\obj\Debug\Project3_Simple_Clinic_.Properties.Resources.resources
+G:\C#\Project3(Simple Clinic)\obj\Debug\Project3(Simple Clinic).csproj.GenerateResource.cache
+G:\C#\Project3(Simple Clinic)\obj\Debug\Project3(Simple Clinic).csproj.CoreCompileInputs.cache
+G:\C#\Project3(Simple Clinic)\obj\Debug\Project3.294144F9.Up2Date
+G:\C#\Project3(Simple Clinic)\obj\Debug\Project3(Simple Clinic).exe
+G:\C#\Project3(Simple Clinic)\obj\Debug\Project3(Simple Clinic).pdb
+G:\C#\Project3(Simple Clinic)\bin\Debug\Clinic_Bussiness.dll
+G:\C#\Project3(Simple Clinic)\bin\Debug\Clinic_DataAccsess.dll
+G:\C#\Project3(Simple Clinic)\bin\Debug\Clinic_Bussiness.pdb
+G:\C#\Project3(Simple Clinic)\bin\Debug\Clinic_DataAccsess.pdb
+G:\C#\Project3(Simple Clinic)\obj\Debug\Project3_Simple_Clinic_.frmHome.resources
+G:\C#\Project3(Simple Clinic)\obj\Debug\Project3_Simple_Clinic_.Patient.frmAddEditPatient.resources
+G:\C#\Project3(Simple Clinic)\obj\Debug\Project3_Simple_Clinic_.Medical_Record.frmAddEditMedicalRecord.resources
+G:\C#\Project3(Simple Clinic)\obj\Debug\Project3_Simple_Clinic_.Prescription.frmAddEditPrescriptions.resources
+G:\C#\Project3(Simple Clinic)\obj\Debug\Project3_Simple_Clinic_.Home.frmList.resources
+G:\C#\Project3(Simple Clinic)\obj\Debug\Project3_Simple_Clinic_.Appointment.frmAddEditAppointment.resources
+G:\C#\Project3(Simple Clinic)\obj\Debug\Project3_Simple_Clinic_.Doctors.ctrlDoctorCard.resources
+G:\C#\Project3(Simple Clinic)\obj\Debug\Project3_Simple_Clinic_.frmAddEditPayment.resources
+G:\C#\Project3(Simple Clinic)\obj\Debug\Project3_Simple_Clinic_.Patient.ctrlPatientCard.resources
+G:\C#\Project3(Simple Clinic)\obj\Debug\Project3_Simple_Clinic_.Users.ctrlUserPermissions.resources
+G:\C#\Project3(Simple Clinic)\obj\Debug\Project3_Simple_Clinic_.Users.frmAddEditUser.resources
+G:\C#\Project3(Simple Clinic)\obj\Debug\Project3_Simple_Clinic_.Login.frmLogin.resources
+G:\C#\Project3(Simple Clinic)\obj\Debug\Project3_Simple_Clinic_.frmMain.resources
+G:\C#\Project3(Simple Clinic)\obj\Debug\Project3_Simple_Clinic_.Person.ctrlPersonCard.resources
+G:\C#\Project3(Simple Clinic)\obj\Debug\Project3_Simple_Clinic_.Person.ctrlPersonCardWithFilter.resources
+G:\C#\Project3(Simple Clinic)\obj\Debug\Project3_Simple_Clinic_.Person.frmAddEditPerson.resources
+G:\C#\Project3(Simple Clinic)\obj\Debug\Project3_Simple_Clinic_.Doctors.frmAddDoctor.resources
+G:\C#\Simple Clinic\Project3(Simple Clinic)\obj\Debug\Project3(Simple Clinic).csproj.AssemblyReference.cache
+G:\C#\Simple Clinic\Project3(Simple Clinic)\obj\Debug\Project3_Simple_Clinic_.Appointment.frmAddEditAppointment.resources
+G:\C#\Simple Clinic\Project3(Simple Clinic)\obj\Debug\Project3_Simple_Clinic_.Doctors.ctrlDoctorCard.resources
+G:\C#\Simple Clinic\Project3(Simple Clinic)\obj\Debug\Project3_Simple_Clinic_.Doctors.frmAddDoctor.resources
+G:\C#\Simple Clinic\Project3(Simple Clinic)\obj\Debug\Project3_Simple_Clinic_.Login.frmLogin.resources
+G:\C#\Simple Clinic\Project3(Simple Clinic)\obj\Debug\Project3_Simple_Clinic_.frmAddEditPayment.resources
+G:\C#\Simple Clinic\Project3(Simple Clinic)\obj\Debug\Project3_Simple_Clinic_.frmHome.resources
+G:\C#\Simple Clinic\Project3(Simple Clinic)\obj\Debug\Project3_Simple_Clinic_.Home.frmList.resources
+G:\C#\Simple Clinic\Project3(Simple Clinic)\obj\Debug\Project3_Simple_Clinic_.Medical_Record.frmAddEditMedicalRecord.resources
+G:\C#\Simple Clinic\Project3(Simple Clinic)\obj\Debug\Project3_Simple_Clinic_.Patient.frmAddEditPatient.resources
+G:\C#\Simple Clinic\Project3(Simple Clinic)\obj\Debug\Project3_Simple_Clinic_.Patient.ctrlPatientCard.resources
+G:\C#\Simple Clinic\Project3(Simple Clinic)\obj\Debug\Project3_Simple_Clinic_.Person.ctrlPersonCard.resources
+G:\C#\Simple Clinic\Project3(Simple Clinic)\obj\Debug\Project3_Simple_Clinic_.Person.ctrlPersonCardWithFilter.resources
+G:\C#\Simple Clinic\Project3(Simple Clinic)\obj\Debug\Project3_Simple_Clinic_.Person.frmAddEditPerson.resources
+G:\C#\Simple Clinic\Project3(Simple Clinic)\obj\Debug\Project3_Simple_Clinic_.Prescription.frmAddEditPrescriptions.resources
+G:\C#\Simple Clinic\Project3(Simple Clinic)\obj\Debug\Project3_Simple_Clinic_.frmMain.resources
+G:\C#\Simple Clinic\Project3(Simple Clinic)\obj\Debug\Project3_Simple_Clinic_.Users.frmAddEditUser.resources
+G:\C#\Simple Clinic\Project3(Simple Clinic)\obj\Debug\Project3_Simple_Clinic_.Users.ctrlUserPermissions.resources
+G:\C#\Simple Clinic\Project3(Simple Clinic)\obj\Debug\Project3(Simple Clinic).csproj.GenerateResource.cache
+G:\C#\Simple Clinic\Project3(Simple Clinic)\obj\Debug\Project3(Simple Clinic).exe
+G:\C#\Simple Clinic\Project3(Simple Clinic)\obj\Debug\Project3(Simple Clinic).pdb
+G:\C#\Simple Clinic\Project3(Simple Clinic)\bin\Debug\Project3(Simple Clinic).exe.config
+G:\C#\Simple Clinic\Project3(Simple Clinic)\bin\Debug\Project3(Simple Clinic).exe
+G:\C#\Simple Clinic\Project3(Simple Clinic)\bin\Debug\Project3(Simple Clinic).pdb
+G:\C#\Simple Clinic\Project3(Simple Clinic)\bin\Debug\Clinic_Bussiness.dll
+G:\C#\Simple Clinic\Project3(Simple Clinic)\bin\Debug\Guna.UI.dll
+G:\C#\Simple Clinic\Project3(Simple Clinic)\bin\Debug\Clinic_DataAccsess.dll
+G:\C#\Simple Clinic\Project3(Simple Clinic)\bin\Debug\Clinic_Bussiness.pdb
+G:\C#\Simple Clinic\Project3(Simple Clinic)\bin\Debug\Clinic_DataAccsess.pdb
+G:\C#\Simple Clinic\Project3(Simple Clinic)\obj\Debug\Project3_Simple_Clinic_.Properties.Resources.resources
+G:\C#\Simple Clinic\Project3(Simple Clinic)\obj\Debug\Project3(Simple Clinic).csproj.CoreCompileInputs.cache
+G:\C#\Simple Clinic\Project3(Simple Clinic)\obj\Debug\Project3.294144F9.Up2Date

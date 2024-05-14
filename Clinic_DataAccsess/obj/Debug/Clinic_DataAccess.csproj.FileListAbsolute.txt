@@ -1,0 +1,12 @@
+G:\C#\Clinic_DataAccsess\bin\Debug\Clinic_DataAccsess.dll
+G:\C#\Clinic_DataAccsess\bin\Debug\Clinic_DataAccsess.pdb
+G:\C#\Clinic_DataAccsess\obj\Debug\Clinic_DataAccess.csproj.AssemblyReference.cache
+G:\C#\Clinic_DataAccsess\obj\Debug\Clinic_DataAccess.csproj.CoreCompileInputs.cache
+G:\C#\Clinic_DataAccsess\obj\Debug\Clinic_DataAccsess.dll
+G:\C#\Clinic_DataAccsess\obj\Debug\Clinic_DataAccsess.pdb
+G:\C#\Simple Clinic\Clinic_DataAccsess\bin\Debug\Clinic_DataAccsess.dll
+G:\C#\Simple Clinic\Clinic_DataAccsess\bin\Debug\Clinic_DataAccsess.pdb
+G:\C#\Simple Clinic\Clinic_DataAccsess\obj\Debug\Clinic_DataAccess.csproj.AssemblyReference.cache
+G:\C#\Simple Clinic\Clinic_DataAccsess\obj\Debug\Clinic_DataAccess.csproj.CoreCompileInputs.cache
+G:\C#\Simple Clinic\Clinic_DataAccsess\obj\Debug\Clinic_DataAccsess.dll
+G:\C#\Simple Clinic\Clinic_DataAccsess\obj\Debug\Clinic_DataAccsess.pdb

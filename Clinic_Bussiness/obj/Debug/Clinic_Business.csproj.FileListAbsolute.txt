@@ -1,0 +1,18 @@
+G:\C#\Clinic_Bussiness\bin\Debug\Clinic_Bussiness.dll
+G:\C#\Clinic_Bussiness\bin\Debug\Clinic_Bussiness.pdb
+G:\C#\Clinic_Bussiness\bin\Debug\Clinic_DataAccsess.dll
+G:\C#\Clinic_Bussiness\bin\Debug\Clinic_DataAccsess.pdb
+G:\C#\Clinic_Bussiness\obj\Debug\Clinic_Business.csproj.AssemblyReference.cache
+G:\C#\Clinic_Bussiness\obj\Debug\Clinic_Business.csproj.CoreCompileInputs.cache
+G:\C#\Clinic_Bussiness\obj\Debug\Clinic_B.468B03D6.Up2Date
+G:\C#\Clinic_Bussiness\obj\Debug\Clinic_Bussiness.dll
+G:\C#\Clinic_Bussiness\obj\Debug\Clinic_Bussiness.pdb
+G:\C#\Simple Clinic\Clinic_Bussiness\bin\Debug\Clinic_Bussiness.dll
+G:\C#\Simple Clinic\Clinic_Bussiness\bin\Debug\Clinic_Bussiness.pdb
+G:\C#\Simple Clinic\Clinic_Bussiness\bin\Debug\Clinic_DataAccsess.dll
+G:\C#\Simple Clinic\Clinic_Bussiness\bin\Debug\Clinic_DataAccsess.pdb
+G:\C#\Simple Clinic\Clinic_Bussiness\obj\Debug\Clinic_Business.csproj.AssemblyReference.cache
+G:\C#\Simple Clinic\Clinic_Bussiness\obj\Debug\Clinic_Business.csproj.CoreCompileInputs.cache
+G:\C#\Simple Clinic\Clinic_Bussiness\obj\Debug\Clinic_B.468B03D6.Up2Date
+G:\C#\Simple Clinic\Clinic_Bussiness\obj\Debug\Clinic_Bussiness.dll
+G:\C#\Simple Clinic\Clinic_Bussiness\obj\Debug\Clinic_Bussiness.pdb
